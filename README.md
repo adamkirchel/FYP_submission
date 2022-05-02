@@ -11,7 +11,7 @@ Note: This is application is not yet complete. Further work is required for full
 
 B) For processing of data such as data orientation: 
 
-1) Open 'processing' folder
+1) Open 'data_processing' folder
 
 2) Open 'Preprocess'. This holds different functions for preprocessing data.
 
