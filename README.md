@@ -15,6 +15,8 @@ B) For processing of data such as data orientation:
 
 2) Open 'Preprocess'. This holds different functions for preprocessing data.
 
+3) Open 'GenData'. This is used to create synthetic data using strategies proposed in the project report.
+
 C) For machine learning architecture:
 
 1) 
