@@ -17,6 +17,8 @@ B) For processing of data such as data orientation:
 
 3) 'GenData.m' - This is used to create synthetic data using strategies proposed in the project report.
 
+Note: Synthetic data is not included. Data either has to be generate using 'GenData.m' or collected from the machine.
+
 C) For machine learning architecture:
 
 1) Open 'ml_architecture' folder
@@ -24,3 +26,5 @@ C) For machine learning architecture:
 2) 'ml_arch.py' - Architecture for the machine learning model. Quite messy, needs tidying and refining. Includes unit and integration test functions. These should be standardised.
 
 3) 'framework_analysis.py' - Test script for obtaining data from the architecture.
+
+Note: These files require data to be stored in a particular format. Directory paths need to be changed before use.
