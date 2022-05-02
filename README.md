@@ -13,9 +13,9 @@ B) For processing of data such as data orientation:
 
 1) Open 'data_processing' folder
 
-2) Open 'Preprocess'. This holds different functions for preprocessing data.
+2) 'Preprocess.m' - This holds different functions for preprocessing data.
 
-3) Open 'GenData'. This is used to create synthetic data using strategies proposed in the project report.
+3) 'GenData.m' - This is used to create synthetic data using strategies proposed in the project report.
 
 C) For machine learning architecture:
 
